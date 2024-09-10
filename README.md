@@ -1,4 +1,3 @@
-# Funding-Analysis-of-Indian-Startups
 # Analysis of Indian Startup's Funding
 ![Screenshot 2024-07-16 155344](https://github.com/user-attachments/assets/d64cc257-f3d6-4345-876f-7664e36be15d)
 
